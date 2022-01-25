@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlborzNazari
-- 👀 I’m interested in 3D graphics, High Level Shading Languages, CG
+- 👀 I’m interested in 3D graphics, High Level Shading Languages, and CG
 - 🌱 I’m currently learning HLSL/GLSL
 - 💞️ I’m looking to collaborate on SHADER CREATION PROJECTS
 - 📫 How to reach me ? Email, Linkedin, Instagram, or...?
